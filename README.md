@@ -17,12 +17,13 @@ Clone the Project to your local machine using Xcode(14+ Recommended)
 - Don't forget to change the googleinfo.plist file with yours.
 - Enable Firebase Storage and Database in your Firbase Account.
 - Upload Photos of your wish and add the links in your database
-
-
+- Aslo Don't forget to add your ReveueCat API. 
+**Don't forget to change the names in the code as per your firebase Database**
 
 ## Usage
 
-**Don't forget to change the names in the code as per your firebase Database**
+**Wallpapers**
+**In-App Subscriptions:**
 
 ## License
 
