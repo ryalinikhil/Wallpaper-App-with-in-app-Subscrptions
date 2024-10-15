@@ -1,6 +1,6 @@
 # Your Project Name
 
-Brief description of your project.
+Feng Wallpaper App
 
 ## Table of Contents
 - [Getting Started](#getting-started)
